@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriebalbinot&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noriebalbinot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noriebalbinot&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Noriebalbinot&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
   
  ![Snake animation](https://github.com/Noriebalbinot/Noriebalbinot/blob/output/github-contribution-grid-snake.svg)
